@@ -1,17 +1,16 @@
- async function Errors(){
+ async function whitoutAwait(){
     try {
        return Promise.reject('error!!!')
     } catch (error) {
         console.log('Error:', error);
-       // return "alternative value"
     }
 }
 
-// No se captura el error.
+// No se captura el error, por endé tendremos un [UnhandledPromiseRejection].
 
-Errors().then(console.log) 
+whitoutAwait().then(console.log) 
 
-async function HandleError(){
+async function whithAwait(){
     try {
         return await Promise.reject('critic error')
     } catch (error) {
@@ -21,4 +20,4 @@ async function HandleError(){
 //El await pausa la ejecución y hasta que no se resuelva 
 //dicha promesa, no retornará, permitiendo al catch capturar
 //el error y evitar un error de promesa no manejado.
-HandleError().then((value) => console.log('VALUE',value))
+whithAwait().then((value) => console.log('VALUE',value))

@@ -15,10 +15,6 @@ console.log('Synchronous');
 
 
 
-
-
-
-
 Promise.resolve().then(() => console.log('Microtask 1'));
 console.log('Synchronous');
 Promise.resolve().then(() => console.log('Microtask 2'));
