@@ -1,0 +1,1602 @@
+[
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "cancelled",
+        "total_amount": 230.4,
+        "currency": "UAH",
+        "shipping_address": {
+            "street": "467 Darwin Point",
+            "city": "Tomakivka",
+            "state": null,
+            "postal_code": null,
+            "country": "Ukraine"
+        },
+        "payment_method": "debit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "cancelled",
+        "total_amount": 358.94,
+        "currency": "GTQ",
+        "shipping_address": {
+            "street": "952 Prairieview Court",
+            "city": "San José El Ídolo",
+            "state": null,
+            "postal_code": "10030",
+            "country": "Guatemala"
+        },
+        "payment_method": "paypal"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "shipped",
+        "total_amount": 143.31,
+        "currency": "RUB",
+        "shipping_address": {
+            "street": "351 Helena Junction",
+            "city": "Teeli",
+            "state": null,
+            "postal_code": "668010",
+            "country": "Russia"
+        },
+        "payment_method": "credit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "cancelled",
+        "total_amount": 61.67,
+        "currency": "AZN",
+        "shipping_address": {
+            "street": "49726 Butterfield Way",
+            "city": "Altıağac",
+            "state": null,
+            "postal_code": null,
+            "country": "Azerbaijan"
+        },
+        "payment_method": "credit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "cancelled",
+        "total_amount": 307.1,
+        "currency": "RUB",
+        "shipping_address": {
+            "street": "388 Katie Road",
+            "city": "Vyshniy Volochëk",
+            "state": null,
+            "postal_code": "601803",
+            "country": "Russia"
+        },
+        "payment_method": "debit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "shipped",
+        "total_amount": 138.7,
+        "currency": "EUR",
+        "shipping_address": {
+            "street": "06568 Dapin Avenue",
+            "city": "Negreiros",
+            "state": "03",
+            "postal_code": "4775-195",
+            "country": "Portugal"
+        },
+        "payment_method": "paypal"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "shipped",
+        "total_amount": 869.76,
+        "currency": "PHP",
+        "shipping_address": {
+            "street": "36 Crowley Pass",
+            "city": "Palguyod",
+            "state": null,
+            "postal_code": "2437",
+            "country": "Philippines"
+        },
+        "payment_method": "paypal"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "cancelled",
+        "total_amount": 264.19,
+        "currency": "CNY",
+        "shipping_address": {
+            "street": "6129 Victoria Crossing",
+            "city": "Jiaoyuan",
+            "state": null,
+            "postal_code": null,
+            "country": "China"
+        },
+        "payment_method": "credit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "delivered",
+        "total_amount": 598.43,
+        "currency": "EUR",
+        "shipping_address": {
+            "street": "62 Brickson Park Pass",
+            "city": "Castelnaudary",
+            "state": "A9",
+            "postal_code": "11493 CEDEX",
+            "country": "France"
+        },
+        "payment_method": "credit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "shipped",
+        "total_amount": 225.11,
+        "currency": "CNY",
+        "shipping_address": {
+            "street": "96542 Northland Avenue",
+            "city": "Xundian",
+            "state": null,
+            "postal_code": null,
+            "country": "China"
+        },
+        "payment_method": "credit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "processing",
+        "total_amount": 473.09,
+        "currency": "IDR",
+        "shipping_address": {
+            "street": "7121 Blackbird Avenue",
+            "city": "Dateng",
+            "state": null,
+            "postal_code": null,
+            "country": "Indonesia"
+        },
+        "payment_method": "credit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "processing",
+        "total_amount": 371.78,
+        "currency": "PLN",
+        "shipping_address": {
+            "street": "665 Kensington Road",
+            "city": "Bukowiec",
+            "state": null,
+            "postal_code": "86-122",
+            "country": "Poland"
+        },
+        "payment_method": "paypal"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "cancelled",
+        "total_amount": 115.43,
+        "currency": "UAH",
+        "shipping_address": {
+            "street": "08 Gerald Road",
+            "city": "Illintsi",
+            "state": null,
+            "postal_code": null,
+            "country": "Ukraine"
+        },
+        "payment_method": "debit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "shipped",
+        "total_amount": 478.7,
+        "currency": "CNY",
+        "shipping_address": {
+            "street": "59 Iowa Park",
+            "city": "Baitu",
+            "state": null,
+            "postal_code": null,
+            "country": "China"
+        },
+        "payment_method": "paypal"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "cancelled",
+        "total_amount": 360.06,
+        "currency": "NPR",
+        "shipping_address": {
+            "street": "18 Reinke Trail",
+            "city": "Birendranagar",
+            "state": null,
+            "postal_code": null,
+            "country": "Nepal"
+        },
+        "payment_method": "debit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "processing",
+        "total_amount": 913.19,
+        "currency": "CNY",
+        "shipping_address": {
+            "street": "3355 Lotheville Parkway",
+            "city": "Gaocang",
+            "state": null,
+            "postal_code": null,
+            "country": "China"
+        },
+        "payment_method": "debit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "shipped",
+        "total_amount": 984.42,
+        "currency": "CNY",
+        "shipping_address": {
+            "street": "066 Katie Alley",
+            "city": "Wuma",
+            "state": null,
+            "postal_code": null,
+            "country": "China"
+        },
+        "payment_method": "credit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "delivered",
+        "total_amount": 849.76,
+        "currency": "THB",
+        "shipping_address": {
+            "street": "013 Ilene Point",
+            "city": "Mueang Suang",
+            "state": null,
+            "postal_code": "45220",
+            "country": "Thailand"
+        },
+        "payment_method": "paypal"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "shipped",
+        "total_amount": 677.9,
+        "currency": "CZK",
+        "shipping_address": {
+            "street": "13940 Michigan Terrace",
+            "city": "Javorník",
+            "state": null,
+            "postal_code": "790 70",
+            "country": "Czech Republic"
+        },
+        "payment_method": "debit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "shipped",
+        "total_amount": 648.74,
+        "currency": "KES",
+        "shipping_address": {
+            "street": "05944 Sauthoff Plaza",
+            "city": "Embu",
+            "state": null,
+            "postal_code": null,
+            "country": "Kenya"
+        },
+        "payment_method": "debit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "shipped",
+        "total_amount": 933.52,
+        "currency": "CNY",
+        "shipping_address": {
+            "street": "94566 Kingsford Hill",
+            "city": "Sanzao",
+            "state": null,
+            "postal_code": null,
+            "country": "China"
+        },
+        "payment_method": "paypal"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "delivered",
+        "total_amount": 514.15,
+        "currency": "IDR",
+        "shipping_address": {
+            "street": "062 Rockefeller Point",
+            "city": "Oebobo",
+            "state": null,
+            "postal_code": null,
+            "country": "Indonesia"
+        },
+        "payment_method": "paypal"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "processing",
+        "total_amount": 116.62,
+        "currency": "BAM",
+        "shipping_address": {
+            "street": "5 Alpine Alley",
+            "city": "Ključ",
+            "state": null,
+            "postal_code": null,
+            "country": "Bosnia and Herzegovina"
+        },
+        "payment_method": "paypal"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "shipped",
+        "total_amount": 112.96,
+        "currency": "SEK",
+        "shipping_address": {
+            "street": "77591 Loftsgordon Plaza",
+            "city": "Norrköping",
+            "state": "E",
+            "postal_code": "601 81",
+            "country": "Sweden"
+        },
+        "payment_method": "credit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "shipped",
+        "total_amount": 372.39,
+        "currency": "THB",
+        "shipping_address": {
+            "street": "64 Merrick Avenue",
+            "city": "Chaiyo",
+            "state": null,
+            "postal_code": "14140",
+            "country": "Thailand"
+        },
+        "payment_method": "paypal"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "processing",
+        "total_amount": 365.51,
+        "currency": "CNY",
+        "shipping_address": {
+            "street": "97 Lerdahl Crossing",
+            "city": "Anning",
+            "state": null,
+            "postal_code": null,
+            "country": "China"
+        },
+        "payment_method": "debit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "processing",
+        "total_amount": 948.49,
+        "currency": "EUR",
+        "shipping_address": {
+            "street": "0834 Cambridge Road",
+            "city": "Agra",
+            "state": "03",
+            "postal_code": "4705-653",
+            "country": "Portugal"
+        },
+        "payment_method": "credit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "cancelled",
+        "total_amount": 810.18,
+        "currency": "BYR",
+        "shipping_address": {
+            "street": "98 Morning Crossing",
+            "city": "Il’ya",
+            "state": null,
+            "postal_code": null,
+            "country": "Belarus"
+        },
+        "payment_method": "credit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "cancelled",
+        "total_amount": 15.63,
+        "currency": "CNY",
+        "shipping_address": {
+            "street": "17389 Center Court",
+            "city": "Ketian",
+            "state": null,
+            "postal_code": null,
+            "country": "China"
+        },
+        "payment_method": "credit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "processing",
+        "total_amount": 691.91,
+        "currency": "AED",
+        "shipping_address": {
+            "street": "8 Bluejay Drive",
+            "city": "Sharjah",
+            "state": null,
+            "postal_code": null,
+            "country": "United Arab Emirates"
+        },
+        "payment_method": "debit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "processing",
+        "total_amount": 222.19,
+        "currency": "CNY",
+        "shipping_address": {
+            "street": "8048 Goodland Lane",
+            "city": "Lishui",
+            "state": null,
+            "postal_code": null,
+            "country": "China"
+        },
+        "payment_method": "credit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "processing",
+        "total_amount": 19.98,
+        "currency": "MAD",
+        "shipping_address": {
+            "street": "6 Twin Pines Park",
+            "city": "Mechrá Belqsiri",
+            "state": null,
+            "postal_code": null,
+            "country": "Morocco"
+        },
+        "payment_method": "paypal"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "processing",
+        "total_amount": 702.65,
+        "currency": "BRL",
+        "shipping_address": {
+            "street": "0 Morning Parkway",
+            "city": "Lajinha",
+            "state": null,
+            "postal_code": "36980-000",
+            "country": "Brazil"
+        },
+        "payment_method": "debit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "delivered",
+        "total_amount": 414.92,
+        "currency": "IDR",
+        "shipping_address": {
+            "street": "9317 Lotheville Trail",
+            "city": "Cipadung Timur",
+            "state": null,
+            "postal_code": null,
+            "country": "Indonesia"
+        },
+        "payment_method": "credit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "delivered",
+        "total_amount": 436.73,
+        "currency": "IDR",
+        "shipping_address": {
+            "street": "823 Gerald Junction",
+            "city": "Gerdu",
+            "state": null,
+            "postal_code": null,
+            "country": "Indonesia"
+        },
+        "payment_method": "debit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "processing",
+        "total_amount": 696.72,
+        "currency": "EUR",
+        "shipping_address": {
+            "street": "93775 Nevada Circle",
+            "city": "Puteaux",
+            "state": "A8",
+            "postal_code": "92822 CEDEX",
+            "country": "France"
+        },
+        "payment_method": "paypal"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "shipped",
+        "total_amount": 109.47,
+        "currency": "TND",
+        "shipping_address": {
+            "street": "21 Coleman Road",
+            "city": "Zouila",
+            "state": null,
+            "postal_code": null,
+            "country": "Tunisia"
+        },
+        "payment_method": "debit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "shipped",
+        "total_amount": 559.1,
+        "currency": "EUR",
+        "shipping_address": {
+            "street": "88158 Bowman Plaza",
+            "city": "Honkajoki",
+            "state": null,
+            "postal_code": "38951",
+            "country": "Finland"
+        },
+        "payment_method": "paypal"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "cancelled",
+        "total_amount": 223.99,
+        "currency": "UAH",
+        "shipping_address": {
+            "street": "2119 Elgar Park",
+            "city": "Sloboda",
+            "state": null,
+            "postal_code": null,
+            "country": "Ukraine"
+        },
+        "payment_method": "debit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "delivered",
+        "total_amount": 988.35,
+        "currency": "CNY",
+        "shipping_address": {
+            "street": "712 Sloan Lane",
+            "city": "Shuitian",
+            "state": null,
+            "postal_code": null,
+            "country": "China"
+        },
+        "payment_method": "debit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "processing",
+        "total_amount": 284.33,
+        "currency": "SEK",
+        "shipping_address": {
+            "street": "645 Chinook Park",
+            "city": "Luleå",
+            "state": "BD",
+            "postal_code": "974 36",
+            "country": "Sweden"
+        },
+        "payment_method": "debit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "cancelled",
+        "total_amount": 504.6,
+        "currency": "HTG",
+        "shipping_address": {
+            "street": "06875 Cordelia Pass",
+            "city": "Carice",
+            "state": null,
+            "postal_code": null,
+            "country": "Haiti"
+        },
+        "payment_method": "paypal"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "delivered",
+        "total_amount": 630.31,
+        "currency": "RUB",
+        "shipping_address": {
+            "street": "7 Leroy Terrace",
+            "city": "Dul’durga",
+            "state": null,
+            "postal_code": "687200",
+            "country": "Russia"
+        },
+        "payment_method": "paypal"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "processing",
+        "total_amount": 510.46,
+        "currency": "PEN",
+        "shipping_address": {
+            "street": "88249 Gateway Junction",
+            "city": "Nicasio",
+            "state": null,
+            "postal_code": null,
+            "country": "Peru"
+        },
+        "payment_method": "paypal"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "delivered",
+        "total_amount": 485.77,
+        "currency": "CNY",
+        "shipping_address": {
+            "street": "8 Southridge Point",
+            "city": "Taihe",
+            "state": null,
+            "postal_code": null,
+            "country": "China"
+        },
+        "payment_method": "debit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "delivered",
+        "total_amount": 981.9,
+        "currency": "SZL",
+        "shipping_address": {
+            "street": "53039 Jenna Parkway",
+            "city": "Kwaluseni",
+            "state": null,
+            "postal_code": null,
+            "country": "Swaziland"
+        },
+        "payment_method": "debit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "cancelled",
+        "total_amount": 188.8,
+        "currency": "EUR",
+        "shipping_address": {
+            "street": "09 Waxwing Junction",
+            "city": "Santo André",
+            "state": "15",
+            "postal_code": "2830-152",
+            "country": "Portugal"
+        },
+        "payment_method": "debit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "shipped",
+        "total_amount": 659.55,
+        "currency": "IDR",
+        "shipping_address": {
+            "street": "95315 Westport Road",
+            "city": "Pangkalan",
+            "state": null,
+            "postal_code": null,
+            "country": "Indonesia"
+        },
+        "payment_method": "paypal"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "shipped",
+        "total_amount": 440.42,
+        "currency": "CNY",
+        "shipping_address": {
+            "street": "9 Pleasure Plaza",
+            "city": "Xiamao",
+            "state": null,
+            "postal_code": null,
+            "country": "China"
+        },
+        "payment_method": "debit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "delivered",
+        "total_amount": 60.31,
+        "currency": "CNY",
+        "shipping_address": {
+            "street": "16 Pearson Center",
+            "city": "Shazhou",
+            "state": null,
+            "postal_code": null,
+            "country": "China"
+        },
+        "payment_method": "debit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "processing",
+        "total_amount": 58.88,
+        "currency": "CNY",
+        "shipping_address": {
+            "street": "8 Beilfuss Terrace",
+            "city": "Macha",
+            "state": null,
+            "postal_code": null,
+            "country": "China"
+        },
+        "payment_method": "credit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "cancelled",
+        "total_amount": 904.11,
+        "currency": "CNY",
+        "shipping_address": {
+            "street": "851 Elgar Place",
+            "city": "Dangjiaxian",
+            "state": null,
+            "postal_code": null,
+            "country": "China"
+        },
+        "payment_method": "debit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "cancelled",
+        "total_amount": 358.87,
+        "currency": "JPY",
+        "shipping_address": {
+            "street": "8 Everett Plaza",
+            "city": "Miyakonojō",
+            "state": null,
+            "postal_code": "889-1912",
+            "country": "Japan"
+        },
+        "payment_method": "debit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "shipped",
+        "total_amount": 734.1,
+        "currency": "CZK",
+        "shipping_address": {
+            "street": "38 Mallory Center",
+            "city": "Vodňany",
+            "state": null,
+            "postal_code": "389 01",
+            "country": "Czech Republic"
+        },
+        "payment_method": "paypal"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "cancelled",
+        "total_amount": 414.32,
+        "currency": "JMD",
+        "shipping_address": {
+            "street": "72 Meadow Vale Center",
+            "city": "Easington",
+            "state": null,
+            "postal_code": null,
+            "country": "Jamaica"
+        },
+        "payment_method": "credit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "processing",
+        "total_amount": 588.82,
+        "currency": "BRL",
+        "shipping_address": {
+            "street": "71 Birchwood Circle",
+            "city": "São Miguel do Araguaia",
+            "state": null,
+            "postal_code": "76590-000",
+            "country": "Brazil"
+        },
+        "payment_method": "paypal"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "shipped",
+        "total_amount": 943.35,
+        "currency": "USD",
+        "shipping_address": {
+            "street": "043 Wayridge Pass",
+            "city": "Stamford",
+            "state": "CT",
+            "postal_code": "06905",
+            "country": "United States"
+        },
+        "payment_method": "paypal"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "processing",
+        "total_amount": 995.93,
+        "currency": "PHP",
+        "shipping_address": {
+            "street": "5 Transport Road",
+            "city": "Mabini",
+            "state": null,
+            "postal_code": "6313",
+            "country": "Philippines"
+        },
+        "payment_method": "paypal"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "processing",
+        "total_amount": 701.76,
+        "currency": "ZAR",
+        "shipping_address": {
+            "street": "949 Namekagon Lane",
+            "city": "Secunda",
+            "state": null,
+            "postal_code": "2302",
+            "country": "South Africa"
+        },
+        "payment_method": "paypal"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "shipped",
+        "total_amount": 413.25,
+        "currency": "EUR",
+        "shipping_address": {
+            "street": "108 Dapin Plaza",
+            "city": "Leudelange",
+            "state": null,
+            "postal_code": "L-3377",
+            "country": "Luxembourg"
+        },
+        "payment_method": "credit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "shipped",
+        "total_amount": 960.35,
+        "currency": "IDR",
+        "shipping_address": {
+            "street": "780 Mccormick Plaza",
+            "city": "Potet",
+            "state": null,
+            "postal_code": null,
+            "country": "Indonesia"
+        },
+        "payment_method": "credit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "delivered",
+        "total_amount": 515.21,
+        "currency": "IDR",
+        "shipping_address": {
+            "street": "1 Monica Pass",
+            "city": "Mernek",
+            "state": null,
+            "postal_code": null,
+            "country": "Indonesia"
+        },
+        "payment_method": "credit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "shipped",
+        "total_amount": 82.4,
+        "currency": "IDR",
+        "shipping_address": {
+            "street": "4 7th Pass",
+            "city": "Pora",
+            "state": null,
+            "postal_code": null,
+            "country": "Indonesia"
+        },
+        "payment_method": "debit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "cancelled",
+        "total_amount": 370.54,
+        "currency": "MKD",
+        "shipping_address": {
+            "street": "364 Maryland Pass",
+            "city": "Obršani",
+            "state": null,
+            "postal_code": "7509",
+            "country": "Macedonia"
+        },
+        "payment_method": "credit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "shipped",
+        "total_amount": 588.16,
+        "currency": "XCD",
+        "shipping_address": {
+            "street": "3 Nancy Parkway",
+            "city": "Roseau",
+            "state": null,
+            "postal_code": null,
+            "country": "Dominica"
+        },
+        "payment_method": "credit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "processing",
+        "total_amount": 780.55,
+        "currency": "EUR",
+        "shipping_address": {
+            "street": "777 Gerald Junction",
+            "city": "Brie-Comte-Robert",
+            "state": "A8",
+            "postal_code": "77254 CEDEX",
+            "country": "France"
+        },
+        "payment_method": "debit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "processing",
+        "total_amount": 83.59,
+        "currency": "ZAR",
+        "shipping_address": {
+            "street": "90 Hansons Pass",
+            "city": "Paulpietersburg",
+            "state": null,
+            "postal_code": "3185",
+            "country": "South Africa"
+        },
+        "payment_method": "debit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "shipped",
+        "total_amount": 931.13,
+        "currency": "CNY",
+        "shipping_address": {
+            "street": "5 Clemons Point",
+            "city": "Kefang",
+            "state": null,
+            "postal_code": null,
+            "country": "China"
+        },
+        "payment_method": "paypal"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "shipped",
+        "total_amount": 656.96,
+        "currency": "CNY",
+        "shipping_address": {
+            "street": "7 Hayes Pass",
+            "city": "Zhumadian",
+            "state": null,
+            "postal_code": null,
+            "country": "China"
+        },
+        "payment_method": "credit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "delivered",
+        "total_amount": 835.7,
+        "currency": "CNY",
+        "shipping_address": {
+            "street": "6 Blue Bill Park Pass",
+            "city": "Dougou",
+            "state": null,
+            "postal_code": null,
+            "country": "China"
+        },
+        "payment_method": "paypal"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "shipped",
+        "total_amount": 342.68,
+        "currency": "BYR",
+        "shipping_address": {
+            "street": "65623 Washington Place",
+            "city": "Antopal’",
+            "state": null,
+            "postal_code": null,
+            "country": "Belarus"
+        },
+        "payment_method": "credit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "shipped",
+        "total_amount": 900.07,
+        "currency": "COP",
+        "shipping_address": {
+            "street": "6 Gateway Way",
+            "city": "Dagua",
+            "state": null,
+            "postal_code": "760529",
+            "country": "Colombia"
+        },
+        "payment_method": "paypal"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "delivered",
+        "total_amount": 167.73,
+        "currency": "PHP",
+        "shipping_address": {
+            "street": "80160 Hermina Hill",
+            "city": "Santo Niño",
+            "state": null,
+            "postal_code": "6711",
+            "country": "Philippines"
+        },
+        "payment_method": "credit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "processing",
+        "total_amount": 216.71,
+        "currency": "CNY",
+        "shipping_address": {
+            "street": "74 Logan Plaza",
+            "city": "Taiyang",
+            "state": null,
+            "postal_code": null,
+            "country": "China"
+        },
+        "payment_method": "debit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "cancelled",
+        "total_amount": 438.85,
+        "currency": "PLN",
+        "shipping_address": {
+            "street": "1 Montana Road",
+            "city": "Przodkowo",
+            "state": null,
+            "postal_code": "83-304",
+            "country": "Poland"
+        },
+        "payment_method": "debit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "cancelled",
+        "total_amount": 22.36,
+        "currency": "SEK",
+        "shipping_address": {
+            "street": "90719 Scott Plaza",
+            "city": "Sandviken",
+            "state": "X",
+            "postal_code": "811 40",
+            "country": "Sweden"
+        },
+        "payment_method": "credit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "processing",
+        "total_amount": 371.24,
+        "currency": "MAD",
+        "shipping_address": {
+            "street": "6 Marquette Place",
+            "city": "Aknoul",
+            "state": null,
+            "postal_code": null,
+            "country": "Morocco"
+        },
+        "payment_method": "paypal"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "cancelled",
+        "total_amount": 852.0,
+        "currency": "BGN",
+        "shipping_address": {
+            "street": "541 Parkside Park",
+            "city": "Yakimovo",
+            "state": null,
+            "postal_code": "3640",
+            "country": "Bulgaria"
+        },
+        "payment_method": "credit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "shipped",
+        "total_amount": 253.68,
+        "currency": "IDR",
+        "shipping_address": {
+            "street": "35460 Union Street",
+            "city": "Kerep Wetan",
+            "state": null,
+            "postal_code": null,
+            "country": "Indonesia"
+        },
+        "payment_method": "paypal"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "shipped",
+        "total_amount": 782.5,
+        "currency": "EUR",
+        "shipping_address": {
+            "street": "0 Main Road",
+            "city": "Elvas",
+            "state": "12",
+            "postal_code": "7350-005",
+            "country": "Portugal"
+        },
+        "payment_method": "debit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "processing",
+        "total_amount": 352.67,
+        "currency": "UAH",
+        "shipping_address": {
+            "street": "476 Bartelt Court",
+            "city": "Uhlove",
+            "state": null,
+            "postal_code": null,
+            "country": "Ukraine"
+        },
+        "payment_method": "paypal"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "delivered",
+        "total_amount": 457.22,
+        "currency": "PHP",
+        "shipping_address": {
+            "street": "5 Reinke Avenue",
+            "city": "Santo Domingo",
+            "state": null,
+            "postal_code": "4508",
+            "country": "Philippines"
+        },
+        "payment_method": "credit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "delivered",
+        "total_amount": 451.25,
+        "currency": "EUR",
+        "shipping_address": {
+            "street": "0 Longview Hill",
+            "city": "Vila Chã de Ourique",
+            "state": "14",
+            "postal_code": "2070-615",
+            "country": "Portugal"
+        },
+        "payment_method": "debit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "delivered",
+        "total_amount": 380.41,
+        "currency": "AFN",
+        "shipping_address": {
+            "street": "66 Hermina Avenue",
+            "city": "Jalālābād",
+            "state": null,
+            "postal_code": null,
+            "country": "Afghanistan"
+        },
+        "payment_method": "paypal"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "shipped",
+        "total_amount": 191.44,
+        "currency": "LKR",
+        "shipping_address": {
+            "street": "00031 Independence Crossing",
+            "city": "Kotikawatta",
+            "state": null,
+            "postal_code": "10600",
+            "country": "Sri Lanka"
+        },
+        "payment_method": "debit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "cancelled",
+        "total_amount": 938.53,
+        "currency": "COP",
+        "shipping_address": {
+            "street": "3 Gale Road",
+            "city": "Combita",
+            "state": null,
+            "postal_code": "150208",
+            "country": "Colombia"
+        },
+        "payment_method": "debit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "cancelled",
+        "total_amount": 591.65,
+        "currency": "USD",
+        "shipping_address": {
+            "street": "0451 Cody Junction",
+            "city": "Kansas City",
+            "state": "MO",
+            "postal_code": "64130",
+            "country": "United States"
+        },
+        "payment_method": "debit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "delivered",
+        "total_amount": 953.69,
+        "currency": "PHP",
+        "shipping_address": {
+            "street": "21 Weeping Birch Junction",
+            "city": "Talisay",
+            "state": null,
+            "postal_code": "4602",
+            "country": "Philippines"
+        },
+        "payment_method": "paypal"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "cancelled",
+        "total_amount": 262.18,
+        "currency": "RUB",
+        "shipping_address": {
+            "street": "40905 Bartillon Avenue",
+            "city": "Yelan’",
+            "state": null,
+            "postal_code": "396647",
+            "country": "Russia"
+        },
+        "payment_method": "credit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "delivered",
+        "total_amount": 837.19,
+        "currency": "GHS",
+        "shipping_address": {
+            "street": "27 Iowa Lane",
+            "city": "Sekondi-Takoradi",
+            "state": null,
+            "postal_code": null,
+            "country": "Ghana"
+        },
+        "payment_method": "paypal"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "processing",
+        "total_amount": 858.13,
+        "currency": "CZK",
+        "shipping_address": {
+            "street": "53564 Carberry Hill",
+            "city": "Čížkovice",
+            "state": null,
+            "postal_code": "411 12",
+            "country": "Czech Republic"
+        },
+        "payment_method": "debit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "cancelled",
+        "total_amount": 289.75,
+        "currency": "CNY",
+        "shipping_address": {
+            "street": "059 Crescent Oaks Hill",
+            "city": "Yinjiang",
+            "state": null,
+            "postal_code": null,
+            "country": "China"
+        },
+        "payment_method": "credit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "cancelled",
+        "total_amount": 308.41,
+        "currency": "EUR",
+        "shipping_address": {
+            "street": "34995 Monument Parkway",
+            "city": "Paldiski",
+            "state": null,
+            "postal_code": null,
+            "country": "Estonia"
+        },
+        "payment_method": "paypal"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "delivered",
+        "total_amount": 457.81,
+        "currency": "ILS",
+        "shipping_address": {
+            "street": "8267 Warrior Street",
+            "city": "Al Ḩīlah",
+            "state": null,
+            "postal_code": null,
+            "country": "Palestinian Territory"
+        },
+        "payment_method": "debit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "shipped",
+        "total_amount": 412.77,
+        "currency": "SYP",
+        "shipping_address": {
+            "street": "06 Bay Pass",
+            "city": "Ḩarastā",
+            "state": null,
+            "postal_code": null,
+            "country": "Syria"
+        },
+        "payment_method": "debit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "delivered",
+        "total_amount": 567.88,
+        "currency": "CNY",
+        "shipping_address": {
+            "street": "1 Luster Plaza",
+            "city": "Fatou",
+            "state": null,
+            "postal_code": null,
+            "country": "China"
+        },
+        "payment_method": "paypal"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "delivered",
+        "total_amount": 592.49,
+        "currency": "CNY",
+        "shipping_address": {
+            "street": "057 Warrior Place",
+            "city": "Duanjia",
+            "state": null,
+            "postal_code": null,
+            "country": "China"
+        },
+        "payment_method": "paypal"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "shipped",
+        "total_amount": 41.8,
+        "currency": "CNY",
+        "shipping_address": {
+            "street": "11385 Sullivan Hill",
+            "city": "Dengzishan",
+            "state": null,
+            "postal_code": null,
+            "country": "China"
+        },
+        "payment_method": "debit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "cancelled",
+        "total_amount": 74.75,
+        "currency": "CNY",
+        "shipping_address": {
+            "street": "51199 Westridge Lane",
+            "city": "Zhoutian",
+            "state": null,
+            "postal_code": null,
+            "country": "China"
+        },
+        "payment_method": "credit_card"
+    },
+    {
+        "order_id": "ORD-1001",
+        "customer_id": "CUST-501",
+        "order_date": "4/3/2025",
+        "status": "delivered",
+        "total_amount": 138.56,
+        "currency": "MAD",
+        "shipping_address": {
+            "street": "3993 Spohn Place",
+            "city": "Sefrou",
+            "state": null,
+            "postal_code": null,
+            "country": "Morocco"
+        },
+        "payment_method": "debit_card"
+    }
+]
